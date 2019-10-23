@@ -1,4 +1,4 @@
-# ptqs1005
+# PTQS1005
 Arduino Library files for use with Plantower PTQS1005 multi-variable sensor
 
 # Use
